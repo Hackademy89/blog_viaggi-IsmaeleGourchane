@@ -1,0 +1,23 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1, h6{
+    color: white;
+    text-align: center;
+}
+
+.titolo{
+    background-image: url(./media/1200x800_px_Hiking_landscape_mist_Morning_mountains_nature_photography-1263873.jpg!d.jpeg);
+    background-size: cover;
+    height: 300px;
+}
+
+.immagineArticolo{
+    width: 150px;
+}
+
+footer{
+    background-color: aquamarine;
+    height: 200px;
+}
